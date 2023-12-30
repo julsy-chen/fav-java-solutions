@@ -10,7 +10,7 @@ When given a term number in the fibonacci sequence, this program will output the
 ## Methods Assignment
 10 Java methods showcasing my learning over the semester
 
-### Additionof Three Numbers
+### Addition of Three Numbers
 takes three numbers, adds them up, and outputs the sum
 
 ### Remainder 
