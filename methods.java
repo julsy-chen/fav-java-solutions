@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class methods {
+public class Methods {
 
     // Unit 1
     // Addition of Three Numbers
